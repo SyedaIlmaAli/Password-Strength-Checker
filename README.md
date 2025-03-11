@@ -1,1 +1,1 @@
-"# Password-Strength-Checker-Streamlir" 
+"# Password-Strength-Checker-Streamlit" 
